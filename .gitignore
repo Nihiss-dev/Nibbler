@@ -1,0 +1,5 @@
+*.o
+lib_nibbler_sfml.so
+lib_nibbler_opengl.so
+lib_nibbler_ncurses.so
+nibbler
